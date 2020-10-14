@@ -1,0 +1,2 @@
+Honggildong,20000101,010-1234-5678,,,gildonghong@pnu.ac.kr
+Kimchulsoo,20011010,010-2345-6789,,,chulsoo@pnu.ac.kr
