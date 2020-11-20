@@ -1,3 +1,6 @@
-﻿  MFCTextsearchingDlg.cpp
-C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCSearchiMon\MFCTextsearching\MFCTextsearchingDlg.cpp(246,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-  MFCTextsearching.vcxproj -> C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCSearchiMon\Debug\MFCTextsearching.exe
+﻿  pch.cpp
+  MFCTextsearching.cpp
+  MFCTextsearchingDlg.cpp
+C:\Users\직업능력개발훈련 401호_8번\Documents\GitHub\MFCStudy\MFCSearchiMon\MFCTextsearching\MFCTextsearchingDlg.cpp(198,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  MFCTextsearching.vcxproj -> C:\Users\직업능력개발훈련 401호_8번\Documents\GitHub\MFCStudy\MFCSearchiMon\Debug\MFCTextsearching.exe
